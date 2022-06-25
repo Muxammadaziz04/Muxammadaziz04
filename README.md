@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 
 ## Snake eating my contribution graph
-![Snake animation](https://github.com/Muxammadaziz04/Muxammadaziz04/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Muxammadaziz04/Muxammadaziz04/blob/output/github-contribution-grid-snake.svg)
