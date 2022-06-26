@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Muxammadaziz04)
 
-## I'm a FrontEnd Developer
-
 <br />
 
 ### Languages and Tools:
