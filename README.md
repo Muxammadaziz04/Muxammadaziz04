@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,git,github,react,redux,materialui,nodejs,express,postgres,heroku,netlify,vscode&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,git,github,react,next,redux,materialui,nodejs,express,postgres,heroku,vercel,netlify,vscode&perline=20)](https://skillicons.dev)
 
 
 <br />
