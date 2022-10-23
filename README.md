@@ -1,6 +1,5 @@
 # Hi 👋, I'm Muxammadaziz
 
-![](https://komarev.com/ghpvc/?username=Muxammadaziz04)
 
 <br />
 
